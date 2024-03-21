@@ -1,3 +1,6 @@
+## Data Curation: A guide to API's and Scraping- Featuring Lewis Hamilton
+
+### Overview
 The contents of this repository include the code to use a free Formula 1 API code and download a custom data set of F1 Statistics. 
 
 The code provided focuses specifically on Lewis Hamilton- one of the top drivers from formula 1- and walks through reading in the API and specifically grabbing Hamilton's data, Cleaning, and selecting our custom stats to make a unique table. 
