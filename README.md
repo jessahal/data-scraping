@@ -8,3 +8,13 @@ The code provided focuses specifically on Lewis Hamilton- one of the top drivers
 Documentation in the code specifies how to change the API key for a specific driver/how to select certain variables so that you could create a unique data set based on the driver and stats you find most interesting.
 
 Enjoy! and big shoutout to whoever put together this API key and made it so easy to access Formula 1 statistics from thousands of races. 
+
+### Hamilton Stats CSV
+This CSV file contains the output from the Lewis Hamilton API. The columns in this data set were chosen through the API and include:
+* Season
+* Race
+* Team
+* Position
+* Starting Grid Position
+* Time
+* Avg Speed
